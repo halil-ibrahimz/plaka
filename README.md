@@ -1,4 +1,6 @@
-# 81 Plaka
+# 🚗 81 Plaka
+
+[![Canlı Demo](https://img.shields.io/badge/🌐_Canlı_Demo-81--plaka.vercel.app-0EA5E9?style=for-the-badge)](https://81-plaka.vercel.app/)
 
 81 Plaka, Türkiye'nin 81 il plaka kodunu öğrenmek için hazırlanmış hafif ve mobil öncelikli bir tek sayfa web uygulamasıdır.
 
